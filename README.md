@@ -1,4 +1,7 @@
-这是一个清除注释的 webpack 插件 1.安装插件
+这是一个清除注释的 webpack 插件
+
+1.安装插件
+npm i removecommentplugin -s-d
 
 2.在 webpack.config.js 文件中引入
 const commentPlugin = require('removeCommentPlugin');
